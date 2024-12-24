@@ -1,7 +1,7 @@
 # Twitter Scraper Tool
 
 ## Overview
-The Twitter Scraper Tool is a Python-based automation script leveraging Selenium to scrape data from Twitter (now X). It collects followers, tweets, and replies for a specified main user and their followers. Additionally, the tool compares replies to identify similarities using the SequenceMatcher algorithm.
+The Twitter Scraper Tool is a OSINT Python-based automation script leveraging Selenium to scrape data from Twitter (now X). It collects followers, tweets, and replies for a specified main user and their followers. Additionally, the tool compares replies to identify similarities using the SequenceMatcher algorithm.
 
 ## Features
 - **Automated Login**: Log in to Twitter with provided credentials.
