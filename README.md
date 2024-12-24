@@ -49,7 +49,7 @@ if similarity > 0.7:  # Adjust this value to set the threshold
 ## Usage
 1. Run the script:
    ```bash
-   python twitter_scraper.py
+   python3 TwitterScraper.py
    ```
 2. Enter the username of the main user when prompted.
 3. View scraped data in the `followers_data.json` file.
