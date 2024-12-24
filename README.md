@@ -19,7 +19,7 @@ The Twitter Scraper Tool is a Python-based automation script leveraging Selenium
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twitter-scraper.git
+   git clone https://github.com/TalMalIka/twitter-scraper.git
    cd twitter-scraper
    ```
 2. Install dependencies:
